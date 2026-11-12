@@ -1,0 +1,46 @@
+class,word,coefficient
+negative,not,7.8318
+negative,not good,7.5839
+negative,awful,7.3189
+negative,terrible,7.289
+negative,yuck,6.9411
+negative,worst,6.6346
+negative,disappointing,6.2583
+negative,horrible,6.0108
+negative,nasty,5.9246
+negative,disappointed,5.8369
+negative,disappointment,5.6212
+negative,not recommend,5.5153
+negative,poor,5.3407
+negative,very disappointed,5.057
+negative,gross,5.0258
+neutral,but,7.5939
+neutral,ok,7.4286
+neutral,okay,6.5258
+neutral,however,5.8178
+neutral,average,4.9616
+neutral,not bad,4.7766
+neutral,decent,4.6746
+neutral,so so,3.9106
+neutral,not great,3.534
+neutral,unfortunately,3.2785
+neutral,good but,3.2701
+neutral,just ok,3.2446
+neutral,nothing special,3.2071
+neutral,alright,3.1594
+neutral,in pinch,3.0592
+positive,great,14.4672
+positive,delicious,10.6093
+positive,excellent,10.4603
+positive,best,9.816
+positive,perfect,7.9615
+positive,wonderful,7.4654
+positive,yummy,7.3334
+positive,not too,6.8805
+positive,good,6.7944
+positive,awesome,6.6542
+positive,yum,6.5235
+positive,love this,6.1909
+positive,amazing,6.0807
+positive,love it,5.9256
+positive,love,5.7828
