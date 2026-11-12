@@ -1,0 +1,7 @@
+filter,model,precision@10,recall@10,hit_rate@10
+5/5,Popularity,0.025,0.1412,0.2204
+5/5,Item-based CF (implicit),0.036,0.2126,0.3103
+5/5,SVD implicit (20 factors),0.0287,0.1631,0.2475
+3/5,Popularity,0.0079,0.0464,0.0707
+3/5,Item-based CF (implicit),0.0174,0.1245,0.157
+3/5,SVD implicit (20 factors),0.0099,0.0609,0.0887
