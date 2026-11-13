@@ -1,0 +1,11 @@
+filter,model,rmse,mae
+5/5,Global mean,1.1083,0.8638
+5/5,Product mean,1.0664,0.8345
+5/5,User mean,1.0831,0.8424
+5/5,Item-based CF (k=20),1.1445,0.8604
+5/5,SVD (20 factors),1.0815,0.8391
+3/5,Global mean,1.1427,0.9167
+3/5,Product mean,1.123,0.8481
+3/5,User mean,1.1693,0.8376
+3/5,Item-based CF (k=20),1.2294,0.8524
+3/5,SVD (20 factors),1.1684,0.8362
